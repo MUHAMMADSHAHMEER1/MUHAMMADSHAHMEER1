@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MUHAMMADSHAHMEER
-- 👀 I’m interested in Spoftware Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shahmeer1475@gmail.com
